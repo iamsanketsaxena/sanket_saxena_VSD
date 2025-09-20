@@ -1,6 +1,7 @@
 # sanket_saxena_VSD
-New repo for VLSI VSD Chip to startup
-RISC-V Reference SoC Tapeout Program VSD
+**New repo for VLSI VSD Chip to startup
+RISC-V Reference SoC Tapeout Program VSD**
+
 Tools Installation
 All the instructions for installation of required tools can be found here:
 System Requirements
@@ -10,6 +11,7 @@ Ubuntu 20.04 or higher
 4 vCPU
 
 **Yosys**
+
 $ sudo apt-get update
 $ git clone https://github.com/YosysHQ/yosys.git
 $ cd yosys
