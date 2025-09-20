@@ -35,5 +35,4 @@ sudo apt install gtkwave
 
 
 
-sudo apt-get update
-sudo apt install gtkwave 
+
