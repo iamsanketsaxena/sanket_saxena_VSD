@@ -28,7 +28,7 @@ sudo apt-get update
 sudo apt-get install iverilog
 **gtkwave**
 sudo apt-get update
-sudo apt install gtkwave 
+sudo apt install gtkwave
 
 
 ![VSD_week0_Task](https://github.com/user-attachments/assets/ceae4646-bb33-4bc8-b102-7219b94f54af)
